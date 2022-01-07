@@ -29,9 +29,9 @@
 
 
 <p align="center">
-  <a href="https://github.com/pepesir/Bosco#requirements">Requirements</a> •
-  <a href="https://github.com/pepesir/Bosco#simple method">Installation</a> •
-  <a href="https://github.com/pepesir/Bosco#thanks-to">Thanks to</a>
+  <a href="https://github.com/A3HIN4V/Bosco#requirements">Requirements</a> •
+  <a href="https://github.com/A3HIN4V/Bosco#simple method">Installation</a> •
+  <a href="https://github.com/A3HIN4V/Bosco#thanks-to">Thanks to</a>
 </p>
 </div>
 
@@ -82,7 +82,7 @@ you can contact us
 # Thanks to
 * Denis ser
 * [`Kriz ser`](https://github.com/KANNANSIR)
-* [`Pepe sir`](https://github.com/pepesir)
+* [`abhi ser`](https://github.com/A3HIN4V/Bosco)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 
 
