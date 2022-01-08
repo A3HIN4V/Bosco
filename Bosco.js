@@ -1005,7 +1005,7 @@ const ftrol = {
     owner1 =`
 ▢ 𝑶 𝑾 𝑵 𝑬 𝑹 - 𝑴 𝑬 𝑵 𝑼 ▢ 
 
-
+@abhi-ser
 ▢ ${prefix}setbgmpic
 
 ▢ ${prefix}setthumb
@@ -1056,7 +1056,7 @@ catlo(owner1)
       group1 = `
 ▢ 𝑮 𝑹 𝑶 𝑼 𝑷 - 𝑴 𝑬 𝑵 𝑼 ▢ 
  
-
+@abhi-ser
 ▢ ${prefix}add
 
 ▢ ${prefix}kick
@@ -1091,7 +1091,7 @@ catlo(group1)
      edit1 = `
 ▢ 𝑬 𝑫 𝑰 𝑻 - 𝑴 𝑬 𝑵 𝑼 ▢ 
 
-
+@abhi-ser
 ▢ ${prefix}secvn
 
 ▢ ${prefix}secvideo
@@ -1142,7 +1142,7 @@ catlo(edit1)
         storage1 = `
 ▢ 𝑺 𝑻 𝑶 𝑹 𝑨 𝑮 𝑬 - 𝑴 𝑬 𝑵 𝑼 ▢ 
 
-
+@abhi-ser
 ▢ ${prefix}addvn
 
 ▢ ${prefix}addvideo
@@ -1174,7 +1174,7 @@ catlo(storage1)
       extra1 = `
 ▢ 𝑬 𝑿 𝑻 𝑹 𝑨 - 𝑴 𝑬 𝑵 𝑼 ▢ 
 
-
+@abhi-ser
 ▢ ${prefix}chat
 
 ▢ ${prefix}fitnahpc
@@ -1192,7 +1192,7 @@ catlo(storage1)
      case 'downloadmenu':
      download1 = `
 ▢ 𝑫 𝑶 𝑾 𝑵 𝑳 𝑶 𝑨 𝑫 - 𝑴 𝑬 𝑵 𝑼 ▢ 
-
+@abhi-ser
 ▢ ${prefix}play
 
 ▢ ${prefix}ytmp3
@@ -1244,7 +1244,7 @@ catlo(download1)
    case 'rules':
            rules1 = `
 -----[ 𝑹 𝑼 𝑳 𝑬 𝑺 ]-----
-
+@abhi-ser
 1. 𝙳𝙾𝙽𝚃 𝙲𝙰𝙻𝙻 𝙱𝙾𝚃
 
 2. 𝙳𝙾𝙽𝚃 𝚂𝙿𝙰𝙼 𝙱𝙾𝚃
@@ -1254,6 +1254,7 @@ catlo(download1)
 4. 𝙳𝙾𝙽𝚃 𝙼𝙸𝚂𝚄𝚂𝙴 𝚃𝙷𝙴 𝙱𝙾𝚃
 
 5. 𝙰𝙽𝚈 𝙿𝚁𝙾𝙱𝙻𝙰𝙼 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁
+call cheytal scn onnum illa just nine njn block cheyum 
 wa.me/${@ABHI-SER
 
 http://wa.me/+48459067790}`
